@@ -28,11 +28,10 @@ Once the popup appears, simply click on the desired area type to switch the curr
 
 To change the keyboard shortcut:
 
-Go to Edit > Preferences > Keymap.
-Search for "Area Switch" in the keymap settings.
+Go to Edit > Preferences > Add-ons.
+Search for "Area Switcher".
 Assign your preferred key combination.
 Enjoy quick and efficient area switching in Blender!
-
 
 
 
