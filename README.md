@@ -16,7 +16,7 @@ Context Switcher is a Blender addon that allows users to quickly switch between 
 ## Usage
 There are three ways to access the Context Switcher:
 
-1. **Keyboard Shortcut**: Press `Ctrl + Shift + A` to open the Context Switcher popup at your cursor location.
+1. **Keyboard Shortcut**: Set a keyboard shortcut in preferences to open the Context Switcher popup at your cursor location.
 2. **View Menu**: In the 3D Viewport, go to View > Context Switch.
 3. **Search**: Press `F3` or use the search menu, then type "Context Switcher" to find and execute the command.
 
@@ -27,11 +27,7 @@ Once the popup appears:
 - Simply click on any workspace or editor type to switch to it
 
 ## Customization
-To change the keyboard shortcut:
-1. Go to Edit > Preferences > Add-ons.
-2. Search for "Context Switcher".
-3. Expand the addon preferences.
-4. Assign your preferred key combination.
+The keyboard shortcut can be changed or removed in the extensions settings.
 
 ## Categories
 The editor types are organized into four main categories:
